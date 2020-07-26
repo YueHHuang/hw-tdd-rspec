@@ -55,6 +55,7 @@ app are actually "touched" by any test code.
 badge" to this `README.md` file.  Commit and push the modified
 `README.md` and verify you can see the Travis badge render correctly on
 the front page of your repo.
+[![Build Status](https://travis-ci.org/YueHHuang/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/YueHHuang/hw-tdd-rspec)
 
 2. Take a look at the `.travis.yml` file in this project, which gives
 Travis instructions on what to do each time code is pushed to GitHub.
